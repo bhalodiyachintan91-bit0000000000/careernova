@@ -1,0 +1,6 @@
+{
+  "name": "CareerNova - AI Career Guidance & Roadmap",
+  "description": "CareerNova: Your Future, Your Path, Your Success. AI-powered career exploration, skill gap analyzer, interactive learning roadmaps, resume checker, and interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
